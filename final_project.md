@@ -4,11 +4,11 @@ RGB LED lights add color to your projects. RGB LEDs can display any color in the
 
 **Components Required:**
 -
-(1) x Uno R3 board
-(1) x Breadboard
-(4) x Male-to-Male wires
-(1) x RGB LED
-(3) x 330 ohm resistors
+    (1) x Uno R3 board
+    (1) x Breadboard
+    (4) x Male-to-Male wires
+    (1) x RGB LED
+    (3) x 330 ohm resistors
 
 **Wiring Diagram and How it Works**
 -
