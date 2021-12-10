@@ -35,3 +35,5 @@ Upload the code in your Arduino R3. Here is the [code](RGB_LED/RGB_LED.ino) you 
 ![tinkercad](images/software-01.jpg)
 
 ![tinkercad2](images/software-02.jpg)
+
+Here is a [video demonstration](https://youtu.be/JpNxU7zz5y8) of the project.
